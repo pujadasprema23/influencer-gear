@@ -51,6 +51,10 @@ body{
 .banner-img{
     width: 400px;
 }
+/* .banner-camera{
+    background-image: rgb(211, 35, 65);
+    width: 200px;
+} */
 .btn-primary{
     background-color: rgb(199, 6, 119);
     border: none;
@@ -69,3 +73,15 @@ body{
 .btn-primary{
     font-weight: 600;
 }
+/* logo container designs  */
+.logo-container{
+    display:flex;
+     justify-content: center;
+     align-items: center; 
+     /* border-top: 1px solid black; */
+     }
+.logos{
+    width: 80px;
+    margin:10px 40px;
+}
+
