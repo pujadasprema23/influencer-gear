@@ -130,7 +130,7 @@ body{
 /* footer container  */
 .footer-container{
     margin-top: 90px;
-    background-color: rgb(0, 0, 43);
+    background-color: rgb(4, 4, 65);
     padding: 40px;
     height: 200px;
     text-align: center;
@@ -144,3 +144,20 @@ body{
 .product-second-desc{
     color: white;
 }
+.social-logo{
+    margin-right: 10px;
+}
+
+/* responsive  */
+
+/* @media screen and (max-width:576px) {
+   .list-container > ul{
+    display: none;
+   }
+.top-container{
+    display: none;
+    justify-content: none;
+    margin: 0;
+}
+
+} */
