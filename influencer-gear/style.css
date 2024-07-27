@@ -99,7 +99,7 @@ body{
     align-items: center; */
     margin: 70px auto;
     /* width: 50px; */
-    box-shadow: 3px 5px 3px 2px grey;
+    box-shadow: 10px 10px 20px 4px grey;
     padding: 10px;
     border-radius: 10px;
 }
