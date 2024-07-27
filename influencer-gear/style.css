@@ -100,13 +100,27 @@ body{
     margin: 70px auto;
     /* width: 50px; */
     box-shadow: 3px 5px 3px 2px grey;
-    padding: 20px;
+    padding: 10px;
     border-radius: 10px;
 }
 .collection-main-text{
     /* margin: 20px auto; */
     text-align: center;
-    margin-top: 30px;
+    margin-top: 50px;
+    color: rgb(65, 56, 56);
+    margin-bottom: -40px;
+}
+.collection-first-bottom-text{
+    font-weight: 300;
+}
+.collection-second-bottom-text{
+    color: rgb(104, 104, 104);
+}
+.checked {
+  color: orange;
+}
+.halfstar{
+   color: gray;
 }
 .see-more{
     color: rgb(161, 0, 140);
